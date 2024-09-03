@@ -1,6 +1,6 @@
 # POC-1-Flexbox
 ## Sistemas de Informação, 02J L12
-### Andreas Caycedo Martinez, 10435302
+### Andreas Caycedo Martinez 10435302, Caio Takehiro Magnoli Igari 10437809.
 Nessa semana aprendemos algumas novas funcionalidades de estilização da página HTML, via Flexbox e CSS. Vendo isso, o que eu implementei foi o seguinte:
 
 -Código HTML
@@ -28,7 +28,7 @@ Aqui vemos os códigos utilizados para configurar o layout da página HTML no co
 
 ![image](https://github.com/user-attachments/assets/5c970342-e57a-4e91-8522-cda77d31d429)
 
-Aqui temos o primeiro media querie, que detecta quando o dispositivo atinge o tamanho de tela premeditado para exercer a função programada e mudar o posicionamento de alguns elementos. Podemos ver que dessa vez a classe icon tem permissão para exibir seu conteúdo (display:block), enquanto a classe box span é barrada.
+Aqui temos o primeiro media querie, que detecta quando o dispositivo atinge o tamanho de tela premeditado para exercer a função programada e mudar o posicionamento de alguns elementos. Podemos ver que dessa vez a classe icon tem permissão para exibir seu conteúdo (display:block), enquanto a classe box span é barrada, criar a classe span foi a forma que encontramos para poder mexer exclusivamente no texto sem porecisar alterar o resto do codigo, assim conseguindo fazer o texto desaparecer em telas menores enquanto os emojis aparecem.
 
 -- Smartphones
 
